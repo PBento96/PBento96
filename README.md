@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pedro!
+- 👋 Hi, I’m Bento!
 - 👀 I’m still exploring all areas of programing and have not yet decided which one i like most!
-- 🌱 I’m currently learning C/C++ and Python!
+- 🌱 I’m currently learning C/C++, C#, .NET, WPF and Python!
 - 💞️ I’m looking to collaborate on any project, i want to bulid my skills and learn!
 - 📫 How to reach me : https://wlo.link/@PedroBentoIT
 
