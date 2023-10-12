@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bento!
-- 👀 I’m still exploring all areas of programing and have not yet decided which one i like most!
-- 🌱 I’m currently learning C/C++, C#, .NET, WPF and Python!
+- 👀 I’m still exploring all areas of programing but have a preference for .NET!
+- 🌱 I’m currently learning C#, .NET, WPF and Blazor!
 - 💞️ I’m looking to collaborate on any project, i want to bulid my skills and learn!
 - 📫 How to reach me : https://wlo.link/@PedroBentoIT
 
