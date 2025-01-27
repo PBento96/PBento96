@@ -4,13 +4,13 @@
   &emsp;
   [:portugal:](README.pt-pt.md)
 
-  <h1>👋 Hi, I’m Pedro!</h1>
+  <h1>👋 Olá, sou o Pedro!</h1>
 
-  People usually call me by my last name, Bento! Yes, like the Japanese packed meals... :bento:
+  As pessoas costumam chamar-me pelo meu último nome, Bento! Sim, é igual às lancheiras japonesas... :bento:
 
-  I'm a programmer :technologist: from Porto, Portugal :portugal: and I'm looking for any opportunity to learn and grow my skills! :brain:
+  Sou um programador :technologist: do Porto, Portugal :portugal: e estou à procura de qualquer oportunidade para aprender e aumentar as minhas competências! :brain:
 
-  I'm currently a student at 42 Porto. I also took CS50x and am working on additional CS50 courses! :student:
+  Atualmente estudo na 42 Porto. Também frequentei o CS50x e estou a trabalhar nos restantes cursos CS50! :student:
 
   [![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)](https://www.42porto.com/en/)
   [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
@@ -19,13 +19,13 @@
 
   <br>
 
-  <h2>Currently working on</h2>
+  <h2>Projeto Atual</h2>
 
   ![42 Minishell](https://github-readme-stats.vercel.app/api/pin/?username=PBento96&repo=minishell&theme=dark&show_icons=true&include_all_commits=true)
 
   <br>
 
-  <h2>My favorite languages</h2>
+  <h2>As minhas linguagens favoritas</h2>
 
   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.open-std.org/jtc1/sc22/wg14/)
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -34,7 +34,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PBento96&layout=compact&theme=dark&langs_count=10)
 
-  <h3>I've also coded in</h3>
+  <h3>Outras linguagens que já usei</h3>
 
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -44,7 +44,7 @@
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html)
 
-  <h3>Frameworks I've used</h3>
+  <h3>Frameworks com que já trabalhei</h3>
 
   [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
   [![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
@@ -53,21 +53,21 @@
   [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
   [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)](https://godotengine.org/)
 
-  <h3>SGBDs I've worked with</h3>
+  <h3>SGBDs que já usei</h3>
 
   [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://www.phpmyadmin.net/)
   [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/sql-server)
   [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
   [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
 
-  <h3>OSs I've worked with</h3>
+  <h3>OSs com que trabalho</h3>
 
   [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/windows/windows-11)
   [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
-  <h3>Text Editors / IDEs</h3>
+  <h3>Editores de texto / IDEs</h3>
 
   [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
@@ -77,22 +77,22 @@
   [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
-  <h3>Other Tools I've Used</h3>
+  <h3>Outras ferramentas com que trabalho</h3>
 
-  <h4>Graphic Design / Image Editing</h4>
+  <h4>Design gráfico / Edição de imagem</h4>
 
   [![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/)
   [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
   [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
-  <h4>Version Control / CI/CD</h4>
+  <h4>Version control / CI/CD</h4>
 
   [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PBento96)
   [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
   [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
 
-  <h4>Office Suite</h4>
+  <h4>Office suite</h4>
 
   [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.credly.com/badges/b622938f-e85a-4628-8470-cfcb14bc6fc4/public_url)
   [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.credly.com/badges/baa24329-c437-4d8a-ba00-ebccc3bd8030/public_url)
@@ -100,7 +100,7 @@
 
   <br>
 
-  <h2>You can reach me here</h2>
+  <h2>Os meus contactos</h2>
 
   [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/B3In5KpYI6h3bPY_xhhSA5Jf_WaAFj9FD0YyjoeTTq1XG-KYBO1IsL31nkuhokeB)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PBentoIT)
@@ -108,7 +108,7 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pbentoit/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbentoit@gmail.com)
 
-  <h3>I'm also at</h3>
+  <h3>Também estou aqui</h3>
 
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PBentoIT)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1088477440843714692)
@@ -123,24 +123,24 @@
 
   <h4>
 
-  [:globe_with_meridians: _Other links_](https://linktr.ee/PBentoIT)
+  [:globe_with_meridians: _Outros links_](https://linktr.ee/PBentoIT)
 
   </h4>
 
   <br>
 
-  <h2>More About Me</h2>
+  <h2>Mais sobre mim</h2>
 
-  <h3>My Hobbies</h3>
+  <h3>Os meus hobbies</h3>
 
-  I love reading :books:, cinema :film_strip:, TV :tv:, games :video_game:... any kind of storytelling really.
+  Adoro ler :books:, ver cinema :film_strip:, TV :tv:, jogar videojogos :video_game:... tudo o que sejam histórias.
 
-  I also love music :musical_note:! My favorite genres are Rock, Punk, and Metal but I listen to everything, from Mozart :musical_score: to Britney :woman_dancing:!
+  Também adoro música :musical_note:! Os meus géneros favoritos são Rock, Punk, e Metal mas eu oiço de tudo, desde Mozart :musical_score: até Britney :woman_dancing:!
 
-  I play the guitar and ukulele :guitar: and have a _passable_ singing voice :microphone:!
+  Toco guitarra e ukulele :guitar: e sou _razoável_ a cantar :microphone:!
 
-  I love all pets, but I have to say I'm more of a dog person and love my dog Santo :dog:!
+  Adoro todos os animais de estimação, mas sinceramente confesso que prefiro cães e adoro o meu cão Santo :dog:!
 
-  I love the outdoors :mountain:! I love camping :camping: and hiking in nature :hiking_boot: and I know my way around some basic survival skills :hammer_and_wrench:! 11 years of being a Scout :fleur_de_lis: will do that to you!
+  Adoro o ar livre :mountain:! Adoro acampar :camping: e fazer caminhadas na natureza :hiking_boot: e também tenho algumas skills básicas de sobrevivência :hammer_and_wrench:! Em 11 anos de escutismo :fleur_de_lis: aprende-se alguma coisa!
 
 </div>
