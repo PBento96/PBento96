@@ -22,7 +22,6 @@
   <h2>Currently working on</h2>
 
   [![42 Minishell](https://github-readme-stats.vercel.app/api/pin/?username=PBento96&repo=minishell&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/PBento96/minishell)
-  [![CESAE Digital - Software Developer ACCEPT Project](https://github-readme-stats.vercel.app/api/pin/?username=PBento96&repo=CESAEDigitalOnlineCourses&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/PBento96/CESAEDigitalOnlineCourses)
 
   <br>
 
